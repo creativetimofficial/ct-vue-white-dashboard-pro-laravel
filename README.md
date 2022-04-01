@@ -4,7 +4,7 @@
 
 _Vue version_: Vue White Dashboard v1.0.0. More info at https://www.creative-tim.com/product/vue-white-dashboard-pro
 
-![Product Image](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/vue-white-dashboard-laravel-pro/intro.gif)
+![Product Image](https://s3.amazonaws.com/creativetim_bucket/products/409/original/opt_wdp_vuelaravel_thumbnail.jpg)
 
 What if you could go from frontend to fullstack in an instant when building your app? We partnered with [UPDIVISION](https://updivision.com) to bring you Vue White Dashboard PRO , the ultimate fullstack resource. Vue White Dashboard PRO comes not only with a huge number of UI components and a Vue White frontend, but also with an API-powered Laravel backend.
 
